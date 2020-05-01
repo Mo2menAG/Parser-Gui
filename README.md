@@ -1,2 +1,2 @@
 # Parser-GUI
-Visualizing compiler parser tree and parsing input code
+Visualizing compiler parse tree and parsing input code
